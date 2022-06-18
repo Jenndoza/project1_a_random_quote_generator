@@ -11,7 +11,7 @@ project 1 - A Random Quote Generator
  * `quotes` array abc 
 ***/
 
-hello there 
+jennifer
 
 /***
  * `getRandomQuote` function
